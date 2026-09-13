@@ -1,0 +1,22 @@
+[
+  {
+    "code": "STUDY20",
+    "discount": 20,
+    "type": "percentage",
+    "courseIds": [],
+    "maxUses": 1000,
+    "usedCount": 0,
+    "expiryDate": "2026-12-31",
+    "active": true
+  },
+  {
+    "code": "PHY20",
+    "discount": 20,
+    "type": "percentage",
+    "courseIds": [1, 2],
+    "maxUses": 500,
+    "usedCount": 0,
+    "expiryDate": "2026-12-31",
+    "active": true
+  }
+]
