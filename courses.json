@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "ACS 27 - ফিজিক্স C1",
+    "category": "acs27",
+    "subCategory": "physics",
+    "price": 70,
+    "originalPrice": 100,
+    "duration": "৪ মাস",
+    "instructor": "অপূর্ব",
+    "cycle": "C1",
+    "type": "paid",
+    "telegramLink": null,
+    "shortDesc": "ACS 27 ফিজিক্স এর সম্পূর্ণ C1 সাইকেল কোর্স।",
+    "fullDesc": "এই কোর্সে ACS 27 সিলেবাসের সব ফিজিক্স টপিক কভার করা হয়েছে।",
+    "image": "https://raw.githubusercontent.com/YOUR_USERNAME/study-room-data/main/images/physics.jpg"
+  },
+  {
+    "id": 2,
+    "name": "ACS 27 - কেমিস্ট্রি C1",
+    "category": "acs27",
+    "subCategory": "chemistry",
+    "price": 70,
+    "originalPrice": 100,
+    "duration": "৪ মাস",
+    "instructor": "মাশরুর",
+    "cycle": "C1",
+    "type": "paid",
+    "telegramLink": null,
+    "shortDesc": "ACS 27 কেমিস্ট্রি C1 সাইকেল।",
+    "fullDesc": "রসায়নের সব কঠিন টপিক সহজে বোঝার জন্য।",
+    "image": "https://raw.githubusercontent.com/YOUR_USERNAME/study-room-data/main/images/chemistry.jpg"
+  }
+]
