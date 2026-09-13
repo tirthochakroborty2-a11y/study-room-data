@@ -11,9 +11,9 @@
     "cycle": "C1",
     "type": "paid",
     "telegramLink": null,
-    "shortDesc": "ACS 27 ফিজিক্স এর সম্পূর্ণ C1 সাইকেল কোর্স।",
-    "fullDesc": "এই কোর্সে ACS 27 সিলেবাসের সব ফিজিক্স টপিক কভার করা হয়েছে।",
-    "image": "https://raw.githubusercontent.com/YOUR_USERNAME/study-room-data/main/images/physics.jpg"
+    "shortDesc": "ACS 27 ফিজিক্স এর সম্পূর্ণ C1 সাইকেল কোর্স। বেসিক থেকে অ্যাডভান্সড।",
+    "fullDesc": "এই কোর্সে ACS 27 সিলেবাসের সব ফিজিক্স টপিক কভার করা হয়েছে। লেকচার, প্র্যাকটিস, এবং লাইভ সাপোর্ট সহ।",
+    "image": "https://raw.githubusercontent.com/tirthochakroborty2-a11y/study-room-data/main/images/IMG-20260905-WA0000.jpg"
   },
   {
     "id": 2,
@@ -27,8 +27,24 @@
     "cycle": "C1",
     "type": "paid",
     "telegramLink": null,
-    "shortDesc": "ACS 27 কেমিস্ট্রি C1 সাইকেল।",
-    "fullDesc": "রসায়নের সব কঠিন টপিক সহজে বোঝার জন্য।",
-    "image": "https://raw.githubusercontent.com/YOUR_USERNAME/study-room-data/main/images/chemistry.jpg"
+    "shortDesc": "ACS 27 কেমিস্ট্রি C1 সাইকেল। রসায়ন এর সব টপিক সহজে বুঝুন।",
+    "fullDesc": "রসায়নের সব কঠিন টপিক সহজে বোঝার জন্য এই কোর্স। প্রতিটি অধ্যায়ের বিস্তারিত লেকচার।",
+    "image": "https://raw.githubusercontent.com/tirthochakroborty2-a11y/study-room-data/main/images/IMG-20260905-WA0000.jpg"
+  },
+  {
+    "id": 3,
+    "name": "ফ্রি - ফিজিক্স বেসিক",
+    "category": "free",
+    "subCategory": "physics",
+    "price": 0,
+    "originalPrice": 0,
+    "duration": "১ মাস",
+    "instructor": "অপূর্ব",
+    "cycle": null,
+    "type": "free",
+    "telegramLink": "https://t.me/studyroom_free",
+    "shortDesc": "সম্পূর্ণ ফ্রি ফিজিক্স বেসিক কোর্স। শুরু থেকে শিখুন।",
+    "fullDesc": "ফিজিক্স এর বেসিক কনসেপ্ট সম্পূর্ণ ফ্রি। যেকোনো ক্লাসের ছাত্র-ছাত্রীর জন্য।",
+    "image": "https://raw.githubusercontent.com/tirthochakroborty2-a11y/study-room-data/main/images/IMG-20260905-WA0000.jpg"
   }
 ]
